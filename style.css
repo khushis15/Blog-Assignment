@@ -1,0 +1,140 @@
+body{
+    /* background-color:#FEEFEC; */
+    background-color: #9d9d9d;
+    /* background-color: #D8D8D8; */
+    color:black;
+    font-family: sans-serif;
+}
+#myNavbar{
+    background-color: #13274F;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}   
+input
+{
+    background: blue;
+}
+.travel_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel_mainDiv img
+{
+    width: 80%;
+}
+.travel_mainDiv hr
+{
+    width: 230px; 
+}
+.head1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 10px;
+    color: #13274F;
+}
+.head2{
+    font-size: x-large;
+}
+.head3{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.text-muted{
+    color: black;
+    font-size:larger;
+}
+.text-success{
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin-left: 20px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i
+{
+    float: right;
+}  
+.movie_text span
+{
+    color: #ff7700;
+}
+.environment_li
+{
+    margin-top: 13px;
+}
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}  
+.environment_li img
+{
+    border-radius: 25px;
+} 
+.environment_li p
+{
+    margin-top:10px;
+}  
+.header_entrepreneur
+{
+    line-height: 2;
+}
+.list-group-item-text{
+    font-size: larger;
+}
+.list-group-item-success {
+    color: black;
+}
+.list-group-item-warning {
+    color: black;
+}
+.page-header{
+    margin: 10px 20px;
+}
+.travel_section{
+    background-image: url("travel.jpeg");
+}
+.environment_li{
+    background-image: url("tech.jpeg");
+    background-repeat: no-repeat;
+    background-size: 1300px 1000px;
+}
+.news_section{
+    background-image: url("tech.jpeg");
+    height: 900px;
+}
+.movies_section{
+    background-image: url("movie.jpeg");
+    background-repeat: no-repeat;
+    background-size: 1200px 800px;
+}
+#contacts{
+    height: 280px;
+    background-image: url("profile.jpeg");
+    margin-bottom: 20px;
+}
